@@ -1,1 +1,11 @@
-
+body{
+    margin:20px;
+    padding:10px;
+}
+label, input, textarea,select{
+    margin:10px;
+}
+div{
+    width:700px;
+    margin: 10px auto;
+}
